@@ -4,11 +4,32 @@ Projeto Extensionista Defensoria PR
 
 > COLOCAR AQUI UM RESUMO SOBRE O PROJETO...
 
-## Projeto
-### Código
-Projeto pode ser importado pelo NetBeans. Baixar bibliotecas necessárias no link:
+## Getting Started
+### Ambiente de desenvolvimento
+  1. Faça o download do instalador do Eclipse (https://www.eclipse.org/downloads).
+  1. Selecione "Eclipse IDE for Java EE Developers" [Screenshot](http://i.imgur.com/2QatKPG.png?2)
+  
+### Fork??
+  Fork deve ser realizado para adicionar modulos.
+  **Não é necessário para trabalhar no croonograma.**
 
-[Link do Google Drive](https://drive.google.com/file/d/0B6J1VfxiCS8gekNiU0ZDTXdlUWM/view?usp=sharing)
+### Clonando o repositório
+  1. No "Project Explorer" do Eclipse, selecione importar um projeto (File >> Import..).
+  1. Procure por "Git", selecione "Projects from Git". **NEXT**
+  1. Selecione "Clone URI". **NEXT**
+  1. No campo URI cole a URI do projeto do Github *https://github.com/FabricaDeSoftwareUNICENTRO/eDefensoriaPR.git*.
+     1. Digite o login e senha.
+     1. **NEXT**.
+  1. **FINISH**
 
-### Run
-Main.java e acessar: http://localhost:8080/eDefensoriaPR
+## Configurar o banco de dados
+*soon*
+
+## Commit e Push
+### Commit
+*soon*
+### Push
+*soon*
+
+## Local server
+*soon*
